@@ -41,6 +41,7 @@ This dashboard shows the ethnicity and gender of complainants, the board disposi
 - struggled with some logic in Tableau - I think I should have done all data related stuff in Python then moved over, not just EDA
 - struggled to build a model with categorical data which was compounded by the sensitive nature of the data (e.g., ethnicity and police interactions)
 - I found the data was slightly limited and would need to be combined with other data to get better insights. For example, location data so I could breakdown by neighbourhood, the perceived trust in police for each demographic.
+- I did struggle with the data too, I found it slimy, like it could be used to fit an agenda very easily.
 - I struggled with understanding what was under the hood in Tableau for more complex visualizations and was not entirely confident in what was happening.
 
 ## Future goals
